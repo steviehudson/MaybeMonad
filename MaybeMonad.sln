@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaybeMonad.Tests", "MaybeMonad.Tests\MaybeMonad.Tests.csproj", "{B9ADF90C-DA1A-4576-BD9D-70E05CE70EBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaybeMonad.API", "MaybeMonad.API\MaybeMonad.API.csproj", "{C4681ED0-7FF1-4053-BBF6-68839CE9A8AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9ADF90C-DA1A-4576-BD9D-70E05CE70EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9ADF90C-DA1A-4576-BD9D-70E05CE70EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9ADF90C-DA1A-4576-BD9D-70E05CE70EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9ADF90C-DA1A-4576-BD9D-70E05CE70EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4681ED0-7FF1-4053-BBF6-68839CE9A8AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4681ED0-7FF1-4053-BBF6-68839CE9A8AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4681ED0-7FF1-4053-BBF6-68839CE9A8AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4681ED0-7FF1-4053-BBF6-68839CE9A8AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

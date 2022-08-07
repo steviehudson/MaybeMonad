@@ -16,7 +16,6 @@ public class CatServiceTests
     public void givenCatExists_whenRetrieveCatName_returnCatName()
     {
         //arrange
-        var expectedCatName = "Bumble";
         var expectedCat = new CatService.Cat(1, "Bumble");
 
         //act
